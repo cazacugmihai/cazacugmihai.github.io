@@ -1,0 +1,14 @@
+body {
+  padding-top: 10px;
+  background-color: #2e2d2b;
+  color: #FFF;
+  font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+  font-size: 14px;
+  text-align: center;
+}
+
+a.resume {
+  color: #FFF;
+  text-decoration: none;
+  font-weight: bold;
+}
